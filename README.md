@@ -44,10 +44,7 @@ Each sub local search algorithms can be displayed in this node diagram.
 
 ## 4. About the programming
 
-### 4.1 Files
-The algorithms are built in an Excel with VBA codes embeded: [Heuristic_algorithm.xlsm](https://github.com/PoonAthitS/heuristic-competition/blob/main/Heuristic_algorithms.xlsm)
-
-### 4.2 Data
+### Data
 We use the mock-up warehouse CVRP input data with their incompatibility constraints in the TXT input data folder
 
 ### To learn more about Poon Athit S., visit his [LinkedIn profile](https://www.linkedin.com/in/athit-srimachand/)
